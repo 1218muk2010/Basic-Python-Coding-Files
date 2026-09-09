@@ -6,7 +6,7 @@ while True:
     else:
         break
 
-print(f"Thank you for entering a valid number. X = {x}")
+print(f"Thank you for entering a valid number. X = {x}") 
 
 
 
