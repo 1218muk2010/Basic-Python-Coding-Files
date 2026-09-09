@@ -4,7 +4,7 @@ print(f"x is {x}")
 
 The problem with this code is that the user could type in a non-integer value, causing a ValueError
 '''
-
+ 
 try:
     x = int(input("What is X? "))
     print(f"x = {x}")
