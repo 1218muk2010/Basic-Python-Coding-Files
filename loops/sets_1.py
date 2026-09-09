@@ -1,3 +1,10 @@
+#Playing around with the range function
+
+print(range(5)) #Output: range(0, 5)
+list(range(5))  # Output: [0, 1, 2, 3, 4]
+list(range(2, 5)) # Output: [2, 3, 4]
+list(range(2, 10, 2)) # Output: [2, 4, 6, 8]
+
 len(set(numbers)) # Output: 6
 numbers.add(7) # Adding 7 to the set
 print(set(numbers)) # Output: {1, 2, 3, 4, 5, 6, 7}
